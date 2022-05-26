@@ -18,6 +18,8 @@
   "homepage": "https://github.com/valentin43digital/NFT-ERC-721-and-Marketplace-Contracts#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
     "ethers": "^5.0.0",
     "hardhat": "^2.9.6"
   },
