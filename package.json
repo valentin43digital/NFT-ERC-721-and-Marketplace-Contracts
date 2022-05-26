@@ -24,6 +24,8 @@
     "hardhat": "^2.9.6"
   },
   "dependencies": {
-    "chai": "^4.3.6"
+    "@openzeppelin/contracts": "^4.6.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.1"
   }
 }
